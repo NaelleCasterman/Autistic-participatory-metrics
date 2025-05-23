@@ -39,12 +39,12 @@ State the primary objectives or questions the corpus will address.
 ### Eligibility criteria – Item 5
 
 Specify inclusion and exclusion rules (e.g. declared A2T funding, publication types, years) and how studies will be grouped.
-→
+→ The included articles were peer-reviewed experimental studies funded by AIMS-2-TRIALS.
 
 ### Information sources – Item 6 (PRISMA‑S 1–4 & BIBLIO 8)
 
 List all databases, registers, websites, organisations and other sources; include the *time‑period covered* and the date each source was last searched.
-→
+→ 
 
 ### Search strategy – Item 7 (PRISMA‑S 5–16)
 
